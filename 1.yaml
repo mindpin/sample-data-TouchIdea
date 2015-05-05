@@ -1,0 +1,537 @@
+# ----------
+# 有预置选项
+# ----------
+# 1 淘宝商品
+# CROCS 洞洞鞋
+- url: 'http://item.taobao.com/item.htm?spm=a230r.1.0.0.AGFU9Y&id=44384797649&ns=1#detail'
+  desc: CROCS 洞洞鞋有哪些亮点？
+  options: 
+    - 踩在脚上感觉很轻便
+    - 逛街不容易累
+    - 耐磨不易损坏
+    - 休闲场合穿着它有时尚感
+    - 主要是逼格高……
+# 2 天猫商品
+# NICI 企鹅公仔
+- url: 'http://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.1.4uhhVB&id=42735804316&skuId=80516455494&areaId=110100&cat_id=50036697&rn=f796922e8d20ecb46d93395194c0009d&user_id=2257675346&is_b=1'
+  desc: NICI 公仔企鹅有哪些亮点？
+  options: 
+    - 治愈系企鹅形象
+    - 造型萌动讨人欢喜
+    - 追女神时可用
+# 3 京东商品
+# 极路由 智能路由器
+- url: 'http://item.jd.com/1386706.html'
+  desc: 家庭网选择极路由，有哪些理由？
+  options: 
+    - 家庭无线网轻松配置
+    - 智能手机远程监控随时排障
+    - 信号超强可跨楼层
+    - 数码宅必备利器
+# 4 亚马逊（中国）商品
+# Esspresso 圆顶蚊帐
+- url: 'http://www.amazon.cn/Esspresso-%E7%88%B1%E6%80%9D%E5%B7%B4%E8%8B%8F%E5%AE%B6%E7%BA%BA-%E5%9C%86%E9%A1%B6%E8%92%99%E5%8F%A4%E5%8C%85%E8%9A%8A%E5%B8%90-%E5%8A%A0%E5%AF%86%E7%BD%91%E7%9C%BC-%E5%8F%8C%E5%BC%80%E9%97%A8%E6%9C%89%E5%BA%95%E8%9A%8A%E5%B8%90-%E9%98%B2%E8%9A%8A%E7%A5%9E%E5%99%A8/dp/B00CMZ2GNU/ref=sr_1_cc_9?s=aps&ie=UTF8&qid=1429511713&sr=1-9-catcorr&keywords=%E8%9A%8A%E5%B8%90'
+  desc: 选择圆顶蚊帐有哪些好处？
+  options: 
+    - 在卧室内摆放美观大方
+    - 安装收纳搬运方便
+    - 三个方向均可进出
+    - 四周有底边防蚊效果好
+    - 住在帐篷里的感觉挺酷的
+# 5 当当网商品
+# 正念简明入门（Mindfulness in Plain English）
+- url: 'http://product.dangdang.com/1222768420.html'
+  desc: 正念简明入门这本书为何适合初学者阅读？
+  options: 
+    - 内容通俗用语直白
+    - 从常识和感受出发谈正念
+    - 给出具体可行的操作方法
+# 6 一号店商品
+# 涤太太 吸水海绵拖把
+- url: 'http://item.yhd.com/item/37087001?tc=3.0.5.37087001.8&tp=51.%E6%8B%96%E5%B8%83.124.0.58.KnLljAt-10-8l7U8'
+  desc: 使用吸水海绵拖把清理地板，有哪些体验值得分享？
+  options: 
+    - 吸灰吸毛发能力强
+    - 拖过之处很少留痕迹
+    - 拖把头可折叠便于彻底清洗
+    - 拖把杆可伸缩适应不同情况
+    - 就算工具再好，也有人懒得动手干活……
+# 7 无印良品商品
+# 舒适沙发
+- url: 'http://www.muji.com.cn/cn/store/goods/4934761049182'
+  desc: 无印良品的舒适沙发有哪些惊艳之处？
+  options: 
+    - 轻轻坐上去，瞬间产生幸福感
+    - 随坐姿变动自由变形
+    - 造型浑然一体尽显设计感。
+    - 真心就是一个大沙包啊……
+# 8 易迅商品
+# 沁园 超滤净水机
+- url: 'http://item.yixun.com/item-1908290.html?YTAG=3.707248231001&cp-ptss=1707248-1-1908290'
+  desc: 选择净水机，你看重哪些因素？
+  options: 
+    - 多级过滤，出水清洁可靠
+    - 经济实惠适合家用
+    - 经久耐用，换芯方便
+    - 一来图便宜，二来看牌子够不够响……
+# 9
+# .taobao.
+# 童年智造 冰雪奇缘新版 迪士尼正版授权 益智手工diy儿童玩具
+- url: 'http://item.taobao.com/item.htm?spm=a1z09.2.9.157.oRmIQ1&id=42495778839&_u=mug467m45de'
+  desc: 这款玩具适合送给哪些人？
+  options:
+    - 幼儿园小朋友吧，小学生也可以
+    - 送爱美的小姑娘不错
+    - 喜欢动画片的人都行吧
+    - 送我吧，我喜欢 B)
+# 10
+# il.tmall
+# 稻香村月饼礼盒装
+- url: 'http://detail.tmall.com/item.htm?spm=a220o.1000855.0.0.n1Js6v&id=41678951253&abbucket=_AB-M24_B18&acm=03037.1003.1.207274&aldid=wysE7Sqq&abtest=_AB-LR24-PR24&scm=1003.1.03037.ITEM_41678951253_207274&pos=9'
+  desc: 你喜欢吃稻香村家的哪些点心？
+  options:
+    - 五仁馅的自来红，味道纯正
+    - 必须是牛舌饼啊
+    - 我经常买枣糕
+    - 别吃这家啦，厂里有苍蝇的事情最近都被曝光啦！
+# 11
+# .taobao.
+# SanDisk 闪迪 TF 16G TF卡 Class4 MicroSD
+- url: 'http://item.taobao.com/item.htm?spm=a1z09.2.9.106.1bADyO&id=5341635064&_u=mug467m3759'
+  desc: 手机存储卡，买多大容量的合适？
+  options:
+    - 8G 差不多够用了
+    - 最少也要 16G 吧，反正又不贵
+    - 要听歌看电影的话，尽量大些比较好
+    - 用 iPhone，不纠结存储卡
+# 12
+# .taobao.
+# 新疆正宗小油馕
+- url: 'http://item.taobao.com/item.htm?spm=a2106.m5221.1000384.24.0bGiL6&id=38174920844&_u=mug467m6e58&scm=1029.newlist-0.1.0&ppath=&sku=&ug=#detail'
+  desc: 看到新疆的馕你会联想到什么？
+  options:
+    - 羊肉串，大盘鸡，牛肉拉面
+    - 我们公司当零食采购过，用来代替方便面
+    - 打卤馕做得好，可以当披萨饼卖啊
+    - 没有人联想到切糕么……
+# 13
+# il.tmall
+# Jabra/捷波朗 SPORT+ 跃动+ 2代 立体声运动蓝牙耳机
+- url: 'http://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.219.UZ0pb6&id=38730003501&skuId=48614710859&areaId=110100&cat_id=2&rn=cde9da94c63e7695a646e224b6f9ef7e&standard=1&user_id=2010184822&is_b=1'
+  desc: 买蓝牙耳机应该注意些什么？
+  options:
+    - 待机时间要够，不然就电话打一半……
+    - 到人多嘈杂的地方试，音质清晰才值得考虑。
+    - 戴到耳朵上舒服才是要紧！
+    - 要注意蓝牙耳机和无线耳机是两种不同的东西
+    - jabra 的蓝牙耳机我买过啊，连电脑不稳定，不推荐
+# 14
+# ikea.com
+# 布雷卡 香味烛和玻璃杯
+- url: 'http://www.ikea.com/cn/zh/catalog/products/30283210/'
+  desc: 这种工艺品蜡烛适合用在哪些场合？
+  options:
+    - 二人世界啊，共进烛光晚餐
+    - 开生日party时可以考虑哦
+    - 我停电时用这个，算烧包吗？
+    - 供奉家里的财神或者关二爷时使用，或许能见奇效
+# 15
+# taobao
+# Greedy Pig创意礼物储蓄罐
+- url: 'http://item.taobao.com/item.htm?id=41276173082&ali_trackid=2:mm_33231692_0_0:1429768973_310_502391423&spm=a1z52.7662534.d11.9.19WuF2'
+  desc: 买个小猪存钱罐，让孩子自己存零钱
+  options: 
+    - 居然连猪头都省了
+    - 这个会不会吓到小朋友
+    - 粉红的pp让人浮想联翩啊
+# 16
+# muji
+# 舒适颈部靠枕
+- url: 'http://www.muji.com.cn/cn/store/goods/4548718988938'
+  desc: 现在经常在电脑前一坐就是一天，很需要高质量的靠枕啊
+  options: 
+    - 实际使用舒服与否，感觉跟座椅有关系
+    - 看着不错，不知道是否贴身
+    - 还不如找个沙发来休息比较好
+# 17
+# dangdang
+# LED呼吸夜灯
+- url: 'http://product.dangdang.com/1272550938.html'
+  desc: 这个大白形状的看起来不错！
+  options: 
+    - 电源插孔的位置有亮点……
+    - 现在简直随处都能看见大白
+    - 遥控功能必须点赞啊！
+# 18
+# dangdang
+# 喜洋洋故事机
+- url: 'http://product.dangdang.com/1140502929.html'
+  desc: 孩子就喜欢喜洋洋，正打算给买个听故事
+  options:
+    - 肚子上那么多按钮，不会密集恐惧么
+    - 我觉得还不如买个毛绒玩具
+    - 听听音质如何再说吧，要不然放家里吵死人
+# 19
+# yhd
+# 楼兰蜜语 五星和田大枣
+- url: 'http://item.yhd.com/item/2574840?tc=3.0.5.2574840.28&tp=52.5146.108.0.237.Kn^0KSb-10-F1P`q'
+  desc: 给老年人买的，看着就挺喜庆的
+  options: 
+    - 多吃大枣有益健康
+    - 枣的外皮比较硬，最好是煮软了吃
+    - 要是不怕甜，买点枣糕更省事
+# 20
+# yhd
+# 洽洽 香瓜子
+- url: 'http://item.yhd.com/item/909992?tc=3.0.5.41699552.35&tp=52.5146.108.0.296.Kn^0KSb-10-F1P`q'
+  desc: 一边看电视一边嗑瓜子最舒服了
+  options: 
+    - 总是嗑瓜子牙会变形哦
+    - 我更喜欢吃原味的
+    - 瓜子吃太多怕上火，喝王老吉
+# 21
+# yhd
+# 旺旺 大米饼
+- url: 'http://item.yhd.com/item/2060875?tc=3.0.5.2060875.14&tp=52.5146.108.0.113.Kn^0KSb-10-F1P`q'
+  desc: 多买点当零食
+  options: 
+    - 从小到大一直爱吃这个
+    - 旺旺仙贝，旺旺雪米饼
+    - 我们办公室就有这个零食吃，嘿嘿
+# 22
+# 灯影牌 牛肉片
+- url: 'http://item.yhd.com/item/31973633?tc=3.0.5.35888583.9&tp=51.%E7%81%AF%E5%BD%B1%E7%89%9B%E8%82%89.124.0.72.Kn^2EPq-10-F1P`q'
+  desc: 正宗四川土特产，灯影牛肉片
+  options: 
+    - 好怀旧的包装风格……
+    - 平时经常吃灯影牛肉丝，还是成片的口感好
+    - 感觉比酱牛肉还贵了
+# 23
+# 泰国进口食品榴莲味威化饼干
+- url: 'http://item.yhd.com/item/40334891?tc=3.0.5.40334891.1&tp=51.%E5%A8%81%E5%8C%96%20%E6%A6%B4%E8%8E%B2%E5%91%B3.124.0.2.Kn^FnBX-10-F1P`q'
+  desc: 榴莲太贵了，买点榴莲威化来过瘾
+  options: 
+    - 一直很难理解为何有人喜欢榴莲那个味道
+    - 没想到还有这种口味的威化饼
+    - 嘉顿也有这个口味的，经常一上架就被抢光
+# 24
+# 京都念慈菴 蜜炼川贝枇杷膏
+- url: 'http://item.yhd.com/item/43020403?tc=3.0.5.43020403.4&tp=51.%E5%B7%9D%E8%B4%9D%E6%9E%87%E6%9D%B7%E8%86%8F.124.0.35.Kn^G6gk-10-F1P`q'
+  desc: 每次犯咳嗽都想喝这个
+  options: 
+    - 请认准“孝亲图”，哈哈
+    - 包装挺精美的
+    - 感觉是在吃甜点而不像喝药
+# 25 
+# amazon
+# 肖申克的救赎(刺激1995)(BD50 蓝光碟)
+- url: 'http://www.amazon.cn/%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E-%E8%92%82%E5%A7%86%E2%80%A2%E7%BD%97%E5%AE%BE%E6%96%AF-Tim-Robbins/dp/B006QHNUBM/ref=pd_sim_d_2?ie=UTF8&refRID=033W15R35TTR3YYH5PK9'
+  desc: 经典励志大片，你还记得哪些？
+  options: 
+    - 当幸福来敲门
+    - 三个傻瓜
+    - 美丽人生
+    - 阿甘正传
+# ----------
+# 无预置选项
+# ----------
+# 1
+# il.tmall
+# IJOY 春季新款女鞋
+- url: 'http://detail.tmall.com/item.htm?id=38764511161&ali_refid=a3_420841_1006:1105725637:N:%E5%87%89%E9%9E%8B+%E5%A5%B3+%E5%A4%8F:151b8fffd8a4a5c7e7e6b8195e54c032&ali_trackid=1_151b8fffd8a4a5c7e7e6b8195e54c032&spm=a231k.7629678.1998348220.76.9OALwv'
+# 2
+# .taobao.
+# 流苏露趾黑色女凉鞋
+- url: 'http://item.taobao.com/item.htm?id=4824114932&ali_refid=a3_420841_1006:1102764361:N:%E5%87%89%E9%9E%8B%E5%A5%B3%E5%A4%8F:6608e845778c9fb967451da74860e38a&ali_trackid=1_6608e845778c9fb967451da74860e38a&spm=a231k.7629678.1998348220.152.9OALwv'
+# 3
+# .taobao.
+# 商务休闲男装夹克衫
+- url: 'http://item.taobao.com/item.htm?spm=a230r.1.14.178.9fzfZH&id=42200164063&ns=1&abbucket=11#detail'
+# 4
+# .taobao.
+# 加大码宽松打底裤
+- url: 'http://item.taobao.com/item.htm?spm=a230r.1.14.138.QIaHHi&id=37629821394&ns=1&abbucket=11#detail'
+# 5
+# il.tmall
+# 海参 辽参
+- url: 'http://detail.tmall.com/item.htm?spm=a230r.1.14.21.ZIET1i&id=18143685544&ad_id=&am_id=&cm_id=140105335569ed55e27b&pm_id=&abbucket=11'
+# 6
+# .taobao.
+# 长白山野山参
+- url: 'http://item.taobao.com/item.htm?spm=a230r.1.14.43.dGpTwN&id=23653588135&ns=1&abbucket=11#detail'
+# 7
+# .taobao.
+# 安卓苹果蓝牙智能家庭电子血压计
+- url: 'http://item.taobao.com/item.htm?spm=a230r.1.14.185.nSkhH9&id=42614300689&ns=1&abbucket=11#detail'
+# 8
+# il.tmall
+# 2015新款中老年丝巾
+- url: 'http://detail.tmall.com/item.htm?spm=a230r.1.14.21.9pqyrL&id=37612530225&ad_id=&am_id=&cm_id=140105335569ed55e27b&pm_id=&abbucket=11'
+# 9
+# il.tmall
+# 中年爸爸装
+- url: 'http://detail.tmall.com/item.htm?spm=a230r.1.14.272.UVcSA4&id=44466044398&ns=1&abbucket=11'
+# 10
+# .taobao.
+# 沙发床边床前地毯
+- url: 'http://item.taobao.com/item.htm?spm=5704.1695293.1998397610.24.eRtlGN&id=40107725926'
+# 11
+# .taobao.
+# 简易学生办公书立
+- url: 'http://item.taobao.com/item.htm?id=40469462991&ali_trackid=2:mm_33231692_0_0:1429768871_2k1_1873672731&spm=a1z52.7662534.d11.10.W5OsLw'
+# 12
+# .taobao.
+# 木制组装飞机
+- url: 'http://item.taobao.com/item.htm?spm=a230r.1.14.83.eGMtqO&id=36593377352&ns=1&abbucket=11#detail'
+# 13
+# muji.com
+# 起泡浴球
+- url: 'http://www.muji.com.cn/cn/store/goods/4945247506433'
+# 14
+# muji.com
+# 细棉棒替换装
+- url: 'http://www.muji.com.cn/cn/store/goods/4547315570409'
+# 15
+# muji.com
+# 保暖纤维动物靠垫
+- url: 'http://www.muji.com.cn/cn/store/goods/4547315015610'
+# 16
+# uct.dang
+# 大白iPhone6手机壳
+- url: 'http://product.dangdang.com/1274824833.html'
+# 17
+# uct.dang
+# baymax 白胖子包挂件钥匙扣装饰
+- url: 'http://product.dangdang.com/1360835738.html'
+# 18
+# uct.dang
+# 可爱Q版剑龙玩偶抱枕
+- url: 'http://product.dangdang.com/1096134534.html'
+# 19
+# uct.dang
+# 灰太狼故事机
+- url: 'http://product.dangdang.com/1442076106.html'
+# 20
+# .yhd.com
+# Lay's/乐事 薯片
+- url: 'http://item.yhd.com/item/26202399?tc=3.0.5.26202399.7&tp=52.5135.108.0.52.Kn^07Or-10-F1P`q'
+# 21
+# .yhd.com
+# 新农哥 长寿果
+- url: 'http://item.yhd.com/item/1249063?tc=3.0.5.1249063.2&tp=52.5146.108.0.11.Kn^0KSb-10-F1P`q'
+# 22
+# .yhd.com
+# 黄飞红 麻辣花生
+- url: 'http://item.yhd.com/item/956140?tc=3.0.5.956140.12&tp=52.5146.108.0.100.Kn^0KSb-10-F1P`q'
+# 23
+# .yhd.com
+# 百草味 葡萄干
+- url: 'http://item.yhd.com/item/37962122?tc=3.0.5.37962122.1&tp=52.5146.108.0.311.Kn^0KSb-10-F1P`q'
+# 24
+# .yhd.com
+# 溜溜 雪梅
+- url: 'http://item.yhd.com/item/2535849?tc=3.0.5.2535849.1&tp=52.5146.108.0.312.Kn^0KSb-10-F1P`q'
+# 25
+# .yhd.com
+# 浪味仙创意花式薯卷
+- url: 'http://item.yhd.com/item/25054216?tc=3.0.5.25054216.1&tp=52.5146.108.0.313.Kn^0KSb-10-F1P`q'
+# 26
+# .yhd.com
+# 百草味 东北松子
+- url: 'http://item.yhd.com/item/2076624?ref=ad.10124_1624_142832_125498_28153_1885997_3_2777_21_2076624_1_1&tp=52.5146.102.0.3.Kn^0KSb-10-F1P`q'
+# 27
+# .yhd.com
+# 周黑鸭 鸭锁骨
+- url: 'http://item.yhd.com/item/8855488?tc=3.0.5.8855488.11&tp=52.5146.108.0.86.Kn^0KSb-10-F1P`q'
+# 28
+# .yhd.com
+# 内蒙古风干牛肉干
+- url: 'http://item.yhd.com/item/9776264?tc=3.0.5.9776264.17&tp=52.5146.108.0.136.Kn^0KSb-10-F1P`q'
+# 29
+# .yhd.com
+# 金晔 山楂条
+- url: 'http://item.yhd.com/item/43085107?tc=3.0.5.43085107.1&tp=51.%E9%87%91%E6%99%94%20%E5%B1%B1%E6%A5%82%E6%9D%A1.124.0.2.Kn^2Uhx-10-F1P`q'
+# 30
+# .yhd.com
+# 康师傅 红烧牛肉面
+- url: 'http://item.yhd.com/item/907641?tc=3.0.5.907641.1&tp=52.5135.108.0.2.Kn^9XdE-10-F1P`q'
+# 31
+# .yhd.com
+# Centrum/善存 善存银片
+- url: 'http://item.yhd.com/item/36647600?ref=ad.16611_16101564_1&tc=ad.0.0.16611-16101564.1&tp=2083.0.m2334896.10.3.Kn^FzJy-10-F1P`q'
+# 32
+# .taobao.
+# 风扇保养套装
+- url: 'http://item.taobao.com/item.htm?spm=a1z09.2.9.77.bFtFV3&id=20553612763&_u=mug467me51e '
+# 33
+# .taobao.
+# 桌游-只言片语
+- url: 'http://item.taobao.com/item.htm?spm=a1z09.2.9.219.bFtFV3&id=12590621830&_u=mug467m6f4a'
+# 34
+# .taobao.
+# 韩国Etude house爱丽小屋 双头旋转自动眉笔
+- url: 'http://item.taobao.com/item.htm?spm=a1z09.2.9.60.1bADyO&id=6813891787&_u=mug467m828b'
+# 35
+# .taobao.
+# Wacom Bamboo Stylus iPad苹果电容笔
+- url: 'http://item.taobao.com/item.htm?spm=a1z09.2.9.123.1bADyO&id=12340921038&_u=mug467m0e98'
+# 36
+# .taobao.
+# 广州友谊商场UCLA专柜正品 深宝蓝色经典款男装休闲西服
+- url: 'http://item.taobao.com/item.htm?spm=a2106.m5221.1000384.18.tzxJQE&id=23369408645&_u=mug467m6f1c&scm=1029.newlist-0.1.0&ppath=&sku=&ug=#detail'
+# 37
+# il.tmall
+# 越南进口coffee 中原G7三合一速溶
+- url: 'http://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.2.z8TpTi&id=38719922619&skuId=4611686057147310523&areaId=110100&cat_id=2&rn=999026ad4956a1deca55f9dfcb415701&user_id=1964176118&is_b=1'
+# 38
+# .taobao.
+# Felissimo-TB首家【正品代购】日本芬理希梦500色彩色铅笔限量版
+- url: 'http://item.taobao.com/item.htm?spm=a2106.m5221.1000384.29.XH5clM&id=40909304270&_u=mug467ma524&scm=1029.newlist-0.1.0&ppath=&sku=&ug=#detail'
+# 39
+# ikea.com
+# 尼斯-折叠椅
+- url: 'http://www.ikea.com/cn/zh/catalog/products/10162209/'
+# 40
+# ikea.com
+# 比约斯-伸缩型餐桌
+- url: 'http://www.ikea.com/cn/zh/catalog/products/50182309/'
+# 41
+# ikea.com
+# 雷科-杯子
+- url: 'http://www.ikea.com/cn/zh/catalog/products/20137851/'
+# 42
+# ikea.com
+# FEJKA 菲卡 人造盆栽
+- url: 'http://www.ikea.com/cn/zh/catalog/products/80287654/'
+# 43
+# ikea.com
+# 阿霍蒙 花盆
+- url: 'http://www.ikea.com/cn/zh/catalog/products/50258672/'
+# 44
+# ikea.com
+# MÄSTERBY 莫斯特比踏脚凳
+- url: 'http://www.ikea.com/cn/zh/catalog/products/50240149/'
+# 45
+# ikea.com
+# 奥迪克 餐垫
+- url: 'http://www.ikea.com/cn/zh/catalog/products/50223531/'
+# 46
+# ikea.com
+# 奥提尔 垫套
+- url: 'http://www.ikea.com/cn/zh/catalog/products/80257223/'
+# 47
+# ikea.com
+# 玛莫特 儿童凳
+- url: 'http://www.ikea.com/cn/zh/catalog/products/90267561/'
+# 48
+# ikea.com
+# 巴斯利灵丹斯 4斗迷你抽屉柜
+- url: 'http://www.ikea.com/cn/zh/catalog/products/10176763/'
+# 49
+# uct.dang
+# 科学百科(精)/人类的思想百科丛书 英国DK出版社
+- url: 'http://product.dangdang.com/1394907138.html'
+# 50
+# uct.dang
+# 小王子（三语对照版）
+- url: 'http://product.dangdang.com/20557486.html'
+# 51
+# uct.dang
+# 哥德尔艾舍尔巴赫--集异璧之大成
+- url: 'http://product.dangdang.com/1410054938.html'
+# 52
+# uct.dang
+# 狼图腾【精装本】
+- url: 'http://product.dangdang.com/1900408121.html#ddclick_WLWX'
+# 53
+# amazon.c
+# 教父三部曲(4蓝光碟 珍藏版)
+- url: 'http://www.amazon.cn/%E6%95%99%E7%88%B6%E4%B8%89%E9%83%A8%E6%9B%B2-%E9%A9%AC%E9%BE%99%E2%80%A2%E7%99%BD%E5%85%B0%E5%BA%A6-Marlon-Brando/dp/B00HLC811K/ref=sr_1_8?ie=UTF8&qid=1429683434&sr=8-8&keywords=%E6%95%99%E7%88%B6+dvd'
+# 54
+# amazon.c
+# ECOVACS 科沃斯 智能家用扫地机机器人吸尘器
+- url: 'http://www.amazon.cn/ECOVACS-%E7%A7%91%E6%B2%83%E6%96%AF-%E6%99%BA%E8%83%BD%E5%AE%B6%E7%94%A8%E6%89%AB%E5%9C%B0%E6%9C%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%90%B8%E5%B0%98%E5%99%A8-%E5%9C%B0%E5%AE%9D%E9%AD%94%E9%95%9CS-CEN540-LG/dp/B00KBOC81E/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1429683758&sr=8-1-catcorr&keywords=%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%99%A8%E4%BA%BA'
+# 55
+# muji.com
+# 香精油 荷兰薄荷 10ml
+- url: 'http://www.muji.com.cn/cn/store/goods/4547315252640'
+# 56
+# muji.com
+# 白瓷牙刷架/１根用 约直径4×高3ｃｍ / 薄荷蓝
+- url: 'http://www.muji.com.cn/cn/store/goods/4547315041121'
+# 57
+# muji.com
+# 空气净化器 MJ‐AP1CN
+- url: 'http://www.muji.com.cn/cn/store/goods/4547315820665'
+# 58
+# muji.com
+# 铝制化妆镜 宽20.5×深18×高34〜44cm / 银色
+- url: 'http://www.muji.com.cn/cn/store/goods/4547315574940'
+# 59
+# .jd.com/
+# 日本精工眼镜架纯钛眼镜架
+- url: 'http://item.jd.com/1025602985.html'
+# 60
+# .jd.com/
+# 轩庆号原味陈皮普洱茶熟茶5味装迷你小沱茶荷叶糯米香菊花
+- url: 'http://item.jd.com/1450818216.html'
+# 61
+# .yixun.c
+# 苹果（Apple） iPad mini ME280CH/A 配备 Retina 显示屏 7.9英寸平板电脑 （32G WiFi版）银色
+- url: 'http://item.yixun.com/item-1950930.html?YTAG=3.706120212000'
+# 62
+# .yixun.c
+# IBM 商务拉杆箱 智慧地球S20蓝色 PC材质20寸万向轮固定海关锁
+- url: 'http://item.yixun.com/item-2128401.html?YTAG=3.705955212090'
+# 63
+# .gome.co
+# TCL彩电L58F3700A 58英寸 海量视频 双核CPU 内置WIFI全高清电视（黑色）
+- url: 'http://item.gome.com.cn/9133620319-1122390161.html'
+# 64
+# .gome.co
+# 格兰仕（Galanz）CH2082电磁炉
+- url: 'http://item.gome.com.cn/9100006674-1000012246.html'
+# 65
+# .gome.co
+# LG 微波炉 MH6343SDR/SDB
+- url: 'http://item.gome.com.cn/A0004987368-pop8004672943.html'
+# 66
+# .gome.co
+# EKS 0405手提秤（红色）
+- url: 'http://item.gome.com.cn/9120850486-1107070238.html'
+# 67
+# amazon.c
+# 亚马逊Kindle Voyage电子书阅读器
+- url: 'http://www.amazon.cn/gp/product/B00MEY0VWW/ref=fs_kindlev'
+# 68
+# amazon.c
+# 宫崎骏与久石让的:音乐旅程(2CD) 
+- url: 'http://www.amazon.cn/%E5%AE%AB%E5%B4%8E%E9%AA%8F%E4%B8%8E%E4%B9%85%E7%9F%B3%E8%AE%A9%E7%9A%84-%E9%9F%B3%E4%B9%90%E6%97%85%E7%A8%8B/dp/B004UOAW2S/ref=sr_1_1?s=music&ie=UTF8&qid=1429691522&sr=1-1&keywords=%E4%B9%85%E7%9F%B3%E8%AE%A9'
+# 69
+# amazon.c
+# 进口CD:巴西之夜/肯尼吉 Brazillian Nights/Kenny G(CD)7235106
+- url: 'http://www.amazon.cn/%E8%BF%9B%E5%8F%A3CD-%E5%B7%B4%E8%A5%BF%E4%B9%8B%E5%A4%9C-%E8%82%AF%E5%B0%BC%E5%90%89-Brazillian-Nights-Kenny-G-7235106/dp/B00S4RAB50/ref=sr_1_4?s=music&ie=UTF8&qid=1429691637&sr=1-4'
+# 70
+# amazon.c
+# A1 smartkids推车铝合金超轻双向高景观可平躺婴儿手推车
+- url: 'http://www.amazon.cn/A1-smartkids%E6%8E%A8%E8%BD%A6%E9%93%9D%E5%90%88%E9%87%91%E8%B6%85%E8%BD%BB%E5%8F%8C%E5%90%91%E9%AB%98%E6%99%AF%E8%A7%82%E5%8F%AF%E5%B9%B3%E8%BA%BA%E5%A9%B4%E5%84%BF%E6%89%8B%E6%8E%A8%E8%BD%A6SB-S011G%E4%B8%83%E5%BD%A9%E6%A0%BC-%E9%80%82%E5%90%880-36%E4%B8%AA%E6%9C%88/dp/B00KYFZMGI/ref=sr_1_1?ie=UTF8&qid=1429691723&sr=8-1&keywords=%E5%A9%B4%E5%84%BF%E8%BD%A6'
+# 71
+# il.tmall
+# UGG 女士新款羊毛内里羊皮雪地靴蝴蝶结经典短筒靴
+- url: 'http://detail.tmall.com/item.htm?spm=a3200.s1184724.sub-cus-1184724.10.JTcAGS&id=41855021592&scene=taobao_shop&'
+# 72
+# il.tmall
+# 飞镖盘 飞标套装18寸专业双面植绒硬质飞镖靶
+- url: 'http://detail.tmall.com/item.htm?spm=a230r.1.14.103.1k8RbP&id=12673670793&ns=1&abbucket=11'
+# 73
+# .taobao.
+# v字回旋镖 安全EVA回力镖 飞去来器
+- url: 'http://item.taobao.com/item.htm?spm=a230r.1.14.51.BDkPzB&id=5279879952&ns=1&abbucket=11#detail'
+# 74
+# .jd.com/
+# NIKE耐克 2014年新款男子TIEMPO RIO II TF足球鞋631289-008 黑/白
+- url: 'http://item.jd.com/1415050701.html'
+# 75
+# .jd.com/
+# 登路普 Dunlop Golf Fury 高尔夫球杆套杆 男士 限量版
+- url: 'http://item.jd.com/1466333004.html'
