@@ -17,7 +17,7 @@ yaml2.each_with_index do |info,index|
   infocard_info = info["infocard"]
 
   infocard_app_categories = infocard_info['tag'].split(/,， /).map do |tag|
-    InfocardAppCategory.where(:title = tag).first
+    InfocardAppCategory.where(:title => tag).first
   end
 
   infocard = Infocard.create(
