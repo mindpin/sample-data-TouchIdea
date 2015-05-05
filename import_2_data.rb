@@ -10,8 +10,10 @@ InfocardAppCategory.create(:title => '游戏')
 file_2_path = File.expand_path('../2.yaml', __FILE__)
 
 yaml2 = YAML.load_file(file_2_path)
-
-yaml2.each do |info|
+p "path #{file_2_path}"
+count = yaml2.count
+yaml2.each_with_index do |info,index|
+  p "#{index+1}/#{count}"
   infocard_info = info["infocard"]
 
   infocard_app_categories = infocard_info['tag'].split(/,， /).map do |tag|
