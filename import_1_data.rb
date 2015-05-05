@@ -18,6 +18,10 @@ yaml1.each_with_index do |info,index|
     infocard_error << url
     next
   end
+  if infocard.nil?
+    infocard_error << url
+    next
+  end
 
   desc = info['desc']
   options = info['options']
