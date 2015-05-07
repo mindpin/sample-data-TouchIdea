@@ -26,18 +26,32 @@ yaml1.each_with_index do |info,index|
   desc = info['desc']
   options = info['options']
 
-  if !desc.nil?
-    if desc.class == String && options.class == Array
-      vote_items_attributes = options.map{|option| {:title => option}}
-      User.first.votes.create(
-        :infocard_id => infocard.id.to_s,
-        :title => desc,
-        :vote_items_attributes => vote_items_attributes
-      )
-    else
-      raise "错误数据 #{url}"
-    end
+  if Vote.where(:infocard_id => infocard.id.to_s).count != 0
+    next
   end
+
+  if !desc.nil?
+
+    if desc.class != String || options.class != Array
+      next
+    end
+    vote_items_attributes = options.map{|option| {:title => option}}
+
+  else
+    desc = '这是我的购物分享，说说你的看法吧！'
+    vote_items_attributes = []    
+  end
+
+  vote_items_attributes << {title: 'SYSTEM:GOOD'}
+  vote_items_attributes << {title: 'SYSTEM:SOSO'}
+  vote_items_attributes << {title: 'SYSTEM:BAD'}
+
+
+  User.first.votes.create(
+    :infocard_id => infocard.id.to_s,
+    :title => desc,
+    :vote_items_attributes => vote_items_attributes
+  )
 end
 
 p "导入完成"
