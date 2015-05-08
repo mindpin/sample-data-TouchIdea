@@ -15,3 +15,8 @@ rails r sample-data/import_1_data.rb
 ```
 rails r sample-data/import_2_data.rb
 ```
+
+## 导入第三种数据
+```
+rails r sample-data/import_3_data.rb
+```
