@@ -16,7 +16,8 @@ yaml3.each_with_index do |info,index|
   end
   vote_items_attributes = options.map{|opt|{:title => opt}}
 
-  User.first.votes.create(
+  user = User.all[index%50]
+  user.votes.create(
     :title => desc,
     :vote_items_attributes => vote_items_attributes
   )

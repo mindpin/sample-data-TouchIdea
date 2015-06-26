@@ -6,6 +6,11 @@ git submodule add git://github.com/mindpin/sample-data-TouchIdea.git sample-data
 
 # 导入数据
 
+## 导入用户
+```
+rails r sample-data/import_user.rb
+```
+
 ## 导入第一种数据
 ```
 rails r sample-data/import_1_data.rb

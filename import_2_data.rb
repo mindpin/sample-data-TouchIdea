@@ -1,5 +1,5 @@
 require 'yaml'
-#has_and_belongs_to_many 
+#has_and_belongs_to_many
 
 InfocardAppCategory.create(:title => '工具')
 InfocardAppCategory.create(:title => '教育')
@@ -35,7 +35,8 @@ yaml2.each_with_index do |info,index|
     options = topic_info["options"]
     if desc.class == String && options.class == Array
       vote_items_attributes = options.map{|option| {:title => option}}
-      User.first.votes.create(
+      user = User.all[index%50]
+      user.votes.create(
         :infocard_id => infocard.id.to_s,
         :title => desc,
         :vote_items_attributes => vote_items_attributes

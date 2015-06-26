@@ -39,15 +39,15 @@ yaml1.each_with_index do |info,index|
 
   else
     desc = '这是我的购物分享，说说你的看法吧！'
-    vote_items_attributes = []    
+    vote_items_attributes = []
   end
 
   vote_items_attributes << {title: 'SYSTEM:GOOD'}
   vote_items_attributes << {title: 'SYSTEM:SOSO'}
   vote_items_attributes << {title: 'SYSTEM:BAD'}
 
-
-  User.first.votes.create(
+  user = User.all[index%50]
+  user.votes.create(
     :infocard_id => infocard.id.to_s,
     :title => desc,
     :vote_items_attributes => vote_items_attributes
